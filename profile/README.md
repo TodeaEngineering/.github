@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Cloud native engineers, embedded with your team, across APAC, EMEA, and the Americas.</strong><br/>
   <a href="https://todea.co.kr">todea.co.kr</a> ·
-  <a href="https://www.linkedin.com/company/todea/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/company/todea/">LinkedIn</a>
 </p>
 
 ---

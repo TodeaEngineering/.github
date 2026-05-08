@@ -13,19 +13,19 @@
 ## What we do
 
 Todea is a Seoul-based cloud-native engineering consultancy. We help
-private-sector enterprises across Korea, Japan, and APAC — with global
-remote engagements as inbound demand allows — **assess, build, and operate**
+private-sector enterprises across Korea, Japan, and APAC, with global
+remote engagements as inbound demand allows, **assess, build, and operate**
 production-grade Kubernetes platforms.
 
 Our practice areas:
 
-- **Platform Engineering** — internal developer platforms, paved roads,
+- **Platform Engineering**: internal developer platforms, paved roads,
   GitOps delivery.
-- **Observability** — OpenTelemetry, Prometheus, SLOs, cost observability.
-- **Cloud Migration** — workload modernization, multi-cluster, multi-cloud.
-- **Security & Compliance** — zero-trust networking, workload identity,
+- **Observability**: OpenTelemetry, Prometheus, SLOs, cost observability.
+- **Cloud Migration**: workload modernization, multi-cluster, multi-cloud.
+- **Security & Compliance**: zero-trust networking, workload identity,
   policy-as-code.
-- **Managed Platform Operations** — platform SRE, scheduled upgrades,
+- **Managed Platform Operations**: platform SRE, scheduled upgrades,
   ongoing operations.
 
 We deliver in English, Japanese, Korean, and Chinese.
@@ -34,12 +34,12 @@ We deliver in English, Japanese, Korean, and Chinese.
 
 Three services, sequenced **assess → build → operate**:
 
-1. **Platform Readiness Review** — a 1–2 week fixed-fee assessment of an
+1. **Platform Readiness Review**: a 1–2 week fixed-fee assessment of an
    existing Kubernetes platform. The report credits toward the next
    engagement if you continue.
-2. **Implementation Project** — a fixed-scope build priced from a published
+2. **Implementation Project**: a fixed-scope build priced from a published
    scope-unit schedule, with 30-day post-handover support.
-3. **Managed Platform** — a 12-month auto-renewing subscription with three
+3. **Managed Platform**: a 12-month auto-renewing subscription with three
    support tiers (Essential, Professional, Enterprise) covering response
    times and named-engineer commitments.
 
@@ -50,13 +50,13 @@ reach us at [hello@todea.co.kr](mailto:hello@todea.co.kr).
 
 This is where we open-source what generalizes cleanly out of our client work:
 
-- **Reference architectures** — Kubernetes platforms, multi-cluster
+- **Reference architectures**: Kubernetes platforms, multi-cluster
   patterns, platform-engineering scaffolds.
-- **Operators and controllers** — small, focused projects extracted from
+- **Operators and controllers**: small, focused projects extracted from
   engagements.
-- **Talks and workshops** — source material for what we present at KubeCon
+- **Talks and workshops**: source material for what we present at KubeCon
   and regional Kubernetes Community Days.
-- **Internal tooling worth sharing** — CLI helpers, linters, and
+- **Internal tooling worth sharing**: CLI helpers, linters, and
   conventions we maintain in public.
 
 If a repo here doesn't have a clear README yet, it's early. Open an issue

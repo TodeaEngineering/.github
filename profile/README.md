@@ -1,9 +1,16 @@
 <p align="center">
-  <img src="https://todea.co.kr/Logo.svg" alt="Todea" width="220" />
+  <a href="https://todea.co.kr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/todea-logo-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="/profile/assets/todea-logo.svg" />
+      <img src="/profile/assets/todea-logo.svg" alt="Todea" width="220" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <strong>Cloud-native platform engineering for production. Seoul-based.</strong><br/>
+  <strong>We design, build, and operate Kubernetes platforms for AI and business applications.<br/>
+  One engineering partner for the whole stack.</strong><br/>
   <a href="https://todea.co.kr">todea.co.kr</a> ·
   <a href="https://www.linkedin.com/company/todea/">LinkedIn</a>
 </p>
@@ -12,63 +19,49 @@
 
 ## What we do
 
-Todea is a Seoul-based cloud-native engineering consultancy. We help
-private-sector enterprises across Korea, Japan, and APAC, with global
-remote engagements as inbound demand allows, **assess, build, and operate**
-production-grade Kubernetes platforms.
+Todea is a Seoul-based cloud-native engineering consultancy for private-sector
+enterprises across Korea, Japan, and APAC. When a problem spans the network,
+the mesh, the cluster, and your workloads, we lead the investigation and the
+fix, including escalations to vendors and upstream projects.
 
 Our practice areas:
 
-- **Platform Engineering**: internal developer platforms, paved roads,
-  GitOps delivery.
-- **Observability**: OpenTelemetry, Prometheus, SLOs, cost observability.
-- **Cloud Migration**: workload modernization, multi-cluster, multi-cloud.
-- **Security & Compliance**: zero-trust networking, workload identity,
-  policy-as-code.
-- **Managed Platform Operations**: platform SRE, scheduled upgrades,
-  ongoing operations.
-
-We deliver in English, Japanese, Korean, and Chinese.
+- **AI infrastructure on Kubernetes**: GPU scheduling and sharing, model
+  serving, inference routing, AI observability, GPU cost and capacity,
+  sovereign and air-gapped AI.
+- **Kubernetes platforms** for every workload, AI or not: platform
+  engineering, observability, cloud migration, security and compliance.
+- **Managed platform operations**: our engineers run, upgrade, and improve
+  the platform, so you don't need an in-house platform team.
 
 ## How we engage
 
-Three services, sequenced **assess → build → operate**:
+Assess, build, operate. Each engagement is fixed in scope before work starts.
 
-1. **Platform Readiness Review**: a 1–2 week fixed-fee assessment of an
-   existing Kubernetes platform. The report credits toward the next
-   engagement if you continue.
-2. **Implementation Project**: a fixed-scope build priced from a published
-   scope-unit schedule, with 30-day post-handover support.
-3. **Managed Platform**: a 12-month auto-renewing subscription with three
-   support tiers (Essential, Professional, Enterprise) covering response
-   times and named-engineer commitments.
+1. **[Platform Readiness Review](https://todea.co.kr/en/platform-readiness-review)**:
+   a fixed-fee, 2–4 week assessment of your production platform, with
+   findings prioritized by impact and urgency. If an Implementation Project
+   or Managed Platform starts within 90 days, part of the fee is credited
+   toward it.
+2. **[Implementation Project](https://todea.co.kr/en/implementation-project)**:
+   a fixed-scope, fixed-fee build, documented end to end. Your team operates
+   the platform after handover, with 30 days of assistance.
+3. **[Managed Platform](https://todea.co.kr/en/managed-platform)**: a 12-month
+   partnership in which our engineers operate, upgrade, and improve your
+   platform. Two tiers: Essential (business-hours coverage) and Enterprise
+   (24×7 SEV1 paging).
 
-Start at [todea.co.kr/en/services](https://todea.co.kr/en/services) or
-reach us at [hello@todea.co.kr](mailto:hello@todea.co.kr).
-
-## What lives in this organization
-
-This is where we open-source what generalizes cleanly out of our client work:
-
-- **Reference architectures**: Kubernetes platforms, multi-cluster
-  patterns, platform-engineering scaffolds.
-- **Operators and controllers**: small, focused projects extracted from
-  engagements.
-- **Talks and workshops**: source material for what we present at KubeCon
-  and regional Kubernetes Community Days.
-- **Internal tooling worth sharing**: CLI helpers, linters, and
-  conventions we maintain in public.
-
-If a repo here doesn't have a clear README yet, it's early. Open an issue
-and we'll prioritize it.
+[Talk to an engineer](https://todea.co.kr/en/contact) or write to
+[hello@todea.co.kr](mailto:hello@todea.co.kr).
 
 ## Where to find us
 
 - Website · [todea.co.kr](https://todea.co.kr)
 - Blog · [todea.co.kr/en/blog](https://todea.co.kr/en/blog)
+- Talks · [todea.co.kr/en/talks](https://todea.co.kr/en/talks)
 - LinkedIn · [linkedin.com/company/todea](https://www.linkedin.com/company/todea/)
-- Seoul · 16F, 396 Seocho-daero, Seocho-gu, Seoul 06619, Republic of Korea
-- Coverage · Korea, Japan, APAC; global remote engagements as inbound
+- Seoul · 16th Floor, 396 Seocho-daero, Seocho-gu, Seoul 06619, Republic of Korea
+- Coverage · Korea, Japan, and APAC; global remote engagements as inbound
   demand allows
 
 ---
